@@ -9,7 +9,7 @@ function HogList({hogData}){
         )
     })
     return(
-        <div>
+        <div className="ui grid container">
             {eachHog}
         </div>
     )

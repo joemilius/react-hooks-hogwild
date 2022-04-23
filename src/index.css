@@ -140,6 +140,11 @@ ul {
   clear: both;
 }
 
+img.pigImage{
+  width: 400px;
+  height: 400px;
+}
+
 
 @keyframes App-logo-spin {
   from {
